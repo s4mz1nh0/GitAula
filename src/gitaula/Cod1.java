@@ -10,5 +10,6 @@ package gitaula;
  * @author ifnmg
  */
 public class Cod1 {
+    int x=0;
     
 }
